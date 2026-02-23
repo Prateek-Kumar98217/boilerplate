@@ -24,6 +24,7 @@ Production-grade, modular boilerplate for AI/ML projects using Python, FastAPI, 
 | 04  | [finetuning](04-finetuning/)                 | LoRA, QLoRA, full fine-tune, adapters, prompt tuning                |
 | 05  | [rag](05-rag/)                               | End-to-end RAG — ingestion, retrieval, generation (local + cloud)   |
 | 06  | [agents](06-agents/)                         | Customizable agents, multi-agent orchestration, LangGraph workflows |
+| 07  | [clients](clients/)                          | Gemini, Cerebras & Groq clients — key rotation, memory, templates   |
 
 ## Conventions
 
